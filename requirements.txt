@@ -9,5 +9,6 @@ langchain-text-splitters==0.3.0
 langsmith==0.1.134
 pypdf==5.0.1
 numpy==1.26.4
-streamlit==1.40.1
+
 faiss-cpu
+streamlit==1.30.0
